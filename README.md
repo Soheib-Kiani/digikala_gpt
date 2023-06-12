@@ -9,3 +9,7 @@ Technologies:
 Next.js 13
 TailwindCSS
 OpenAI
+
+
+video realated to this bot :
+https://www.linkedin.com/posts/soheibkiani_openai-gpt-activity-7059635857728634880-ymYH?utm_source=share&utm_medium=member_desktop
